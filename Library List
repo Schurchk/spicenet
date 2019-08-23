@@ -1,7 +1,5 @@
-   Applecore - Spice of Life; Carrot Edition
 AutoRegLib - Quark
 Baubles - Astral Sorcery, Bewitchment, Hooked, Embers Rekindled, Thaumcraft, Thaumic Periphery, Twilight Forest
-   Bookshelf 1.12.2 -
 Chameleon - Storage Drawers
 CodeChicken Lib 1.12.2 -
 CoFH Core - Thermal Series
@@ -10,18 +8,29 @@ Connected Textures Mod - Astral Sorcery, Immersive Engineering, Twilight Forest
 Craft Studio API - Animania
 CTM Lib - Chisel
 Cyclops Core - EvilCore
-   Farseek - Streams
-   FTB Library - YABBA
-   Game Stages - Bountiful
 iChunUtil - Portal Gun
 LibrarianLib - Hooked
-   LLibrary - Rats!
 Mantle - Inspirations, Tinker's Construct
 Mystical Mechanics API - Embers Rekindled, Thaumic Periphery
-   MysticalLib - Mystic World, Roots
-   Mystic World - Roots
-   Obfuscate - McCrayfish's Gun Mod
 Patchouli - Bewitchment, PneumaticCraft, Roots, Twilight Forest
 Quark - PSI
-   Shadowfacts' Forgelin - Bountiful
 WanionLib - UniDict
+
+   Applecore
+   Spice of LifeCarrot Edition
+   Shadowfacts' Forgelin
+   Bountiful
+      MysticalLib
+      Mystic World
+      Roots
+   Obfuscate 
+   McCrayfish's Gun Mod
+   LLibrary 
+   Rats!
+      Farseek
+      Streams
+   FTB Library
+   YABBA
+   Game Stages
+   Bountiful
+      Bookshelf 1.12.2 -
